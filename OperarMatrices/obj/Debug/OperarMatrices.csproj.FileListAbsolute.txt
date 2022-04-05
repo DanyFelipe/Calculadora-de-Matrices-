@@ -1,0 +1,18 @@
+C:\Users\Lazky\source\repos\OperadorMatrices\OperarMatrices\obj\Debug\OperarMatrices.Form1.resources
+C:\Users\Lazky\source\repos\OperadorMatrices\OperarMatrices\obj\Debug\OperarMatrices.Properties.Resources.resources
+C:\Users\Lazky\source\repos\OperadorMatrices\OperarMatrices\obj\Debug\OperarMatrices.csproj.GenerateResource.cache
+C:\Users\Lazky\source\repos\OperadorMatrices\OperarMatrices\bin\Debug\Calculadora de Matrices.exe.config
+C:\Users\Lazky\source\repos\OperadorMatrices\OperarMatrices\bin\Debug\Calculadora de Matrices.exe
+C:\Users\Lazky\source\repos\OperadorMatrices\OperarMatrices\bin\Debug\Calculadora de Matrices.pdb
+C:\Users\Lazky\source\repos\OperadorMatrices\OperarMatrices\obj\Debug\Calculadora de Matrices.exe
+C:\Users\Lazky\source\repos\OperadorMatrices\OperarMatrices\obj\Debug\Calculadora de Matrices.pdb
+C:\Users\GAMER\Downloads\OperarMatrices\bin\Debug\Calculadora de Matrices.exe.config
+C:\Users\GAMER\Downloads\OperarMatrices\bin\Debug\Calculadora de Matrices.exe
+C:\Users\GAMER\Downloads\OperarMatrices\bin\Debug\Calculadora de Matrices.pdb
+C:\Users\GAMER\Downloads\OperarMatrices\obj\Debug\OperarMatrices.csproj.AssemblyReference.cache
+C:\Users\GAMER\Downloads\OperarMatrices\obj\Debug\OperarMatrices.Form1.resources
+C:\Users\GAMER\Downloads\OperarMatrices\obj\Debug\OperarMatrices.Properties.Resources.resources
+C:\Users\GAMER\Downloads\OperarMatrices\obj\Debug\OperarMatrices.csproj.GenerateResource.cache
+C:\Users\GAMER\Downloads\OperarMatrices\obj\Debug\OperarMatrices.csproj.CoreCompileInputs.cache
+C:\Users\GAMER\Downloads\OperarMatrices\obj\Debug\Calculadora de Matrices.exe
+C:\Users\GAMER\Downloads\OperarMatrices\obj\Debug\Calculadora de Matrices.pdb
